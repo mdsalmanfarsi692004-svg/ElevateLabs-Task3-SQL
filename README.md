@@ -6,7 +6,7 @@ The goal of this task is to use SQL queries to extract and analyze data from an 
 ## Project Structure
 I have split the code into two parts for better clarity:
 * **1) DataBase.sql**: Contains the code for creating tables (`customers`, `products`, `orders`) and inserting dummy data.
-* **3) Result.sql**: Contains the analysis queries (Joins, Aggregations, Views) required for the task.
+* **2) Result.sql**: Contains the analysis queries (Joins, Aggregations, Views) required for the task.
 
 ## Files Included
 * `1) DataBase.sql` - Database setup script.
